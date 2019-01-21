@@ -1,1 +1,1 @@
-# test-git-flow --release v. 1.0.0
+# test-git-flow --release v. 1.0.1
